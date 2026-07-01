@@ -1,0 +1,6 @@
+{
+  "name": "Ticket Booking Web Application",
+  "description": "A premium, production-ready ticket booking platform for buses, trains, flights, movies, and events, featuring seat maps, multi-role dashboards, live tracking, and an AI chat assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
